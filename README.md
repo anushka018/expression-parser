@@ -2,7 +2,7 @@
 CSCI 2041 Advanced Programming Principles Final Project 
 
 ## Project Overview 
-Construct a language consisting of defined expressions and operations. Then, develop a parser which handles type chacking, expression evaluation, the computation of free variables, and expression parsing
+Construct a language consisting of defined expressions and operations. Then, develop a parser which handles type checking, expression evaluation, the computation of free variables, and expression parsing
 
 Type checking is implemented through the creation of predetermined, mutable type environments
 
